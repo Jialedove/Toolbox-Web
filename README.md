@@ -1,6 +1,3 @@
-# Toolbox-Web
-一个网页，各种小工具的入口
-
 # 🛠️ AI-Powered Personal Toolbox (Smartbox)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
